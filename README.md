@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @encilaj
+- 👋 Hi, I’m Joseph Encila
 - 👀 I’m interested in front end development
 - 🌱 I’m currently learning mern stack
 - 💞️ I’m happy to collaborate to anyone who reach to me :)
