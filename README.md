@@ -1,4 +1,9 @@
-<h1 align="left">Hello, I'm Joseph</h1>
+<h1 align="left">Hello, I'm Joseph 
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fd/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fd/512.gif" alt="👋" width="32" height="32">
+</picture>
+</h1>
 <img src="https://github.com/josephencila/josephencila/blob/main/banner.png" align="center" alt="joseph-image-banner">
 
 -------------------
@@ -49,7 +54,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=josephencila&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=josephencila&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
